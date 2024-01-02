@@ -1,0 +1,93 @@
+{
+  "FormKey": "017E50:Immersive DragonFire - Apocrypha.esp",
+  "EditorID": "KYW_DragonQuest",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "KYW_DQuestScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "KYW_FirstFrost",
+            "Object": "0A72C9:Immersive DragonFire - Apocrypha.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "KYW_AlphabetSoup",
+            "Object": "00F1EF:Immersive DragonFire - Apocrypha.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "KYW_BreathAttacks",
+            "Object": "00F1ED:Immersive DragonFire - Apocrypha.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "KYW_FirstFire",
+            "Object": "0A72C8:Immersive DragonFire - Apocrypha.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "KYW_Blessings",
+            "Object": "032359:Immersive DragonFire - Apocrypha.esp"
+          }
+        ]
+      }
+    ],
+    "FileName": "",
+    "Aliases": [
+      {
+        "Property": {
+          "Name": "",
+          "Object": "017E50:Immersive DragonFire - Apocrypha.esp",
+          "Alias": 0
+        },
+        "Scripts": [
+          {
+            "Name": "KYW_DragonAlias",
+            "Properties": [
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "KYW_DragonAspectArmsSpell",
+                "Object": "063EB5:Immersive DragonFire - Apocrypha.esp"
+              },
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "Player",
+                "Object": "000014:Skyrim.esm"
+              },
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "KYW_DragonAspectHeadSpell",
+                "Object": "05E11E:Immersive DragonFire - Apocrypha.esp"
+              },
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "DragonAspect",
+                "Object": "021731:Dragonborn.esm"
+              },
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "KYW_VoiceSpells",
+                "Object": "06CB11:Immersive DragonFire - Apocrypha.esp"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Flags": [
+    "StartGameEnabled",
+    "0x10",
+    "RunOnce"
+  ],
+  "Aliases": [
+    {
+      "Name": "Player",
+      "Flags": [],
+      "ForcedReference": "000014:Skyrim.esm",
+      "VoiceTypes": "Null"
+    }
+  ]
+}

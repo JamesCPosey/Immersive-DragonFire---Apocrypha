@@ -1,0 +1,57 @@
+{
+  "FormKey": "05E11D:Immersive DragonFire - Apocrypha.esp",
+  "EditorID": "KYW_DragonAspectEffect",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "MagicPlayEffectShaderOnHitScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "MagicEffectShader",
+            "Object": "10DEAB:Skyrim.esm"
+          }
+        ]
+      },
+      {
+        "Name": "DLC2DragonbornAspectArtSCRIPT",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "DLC2DragonbornAspectArmor01",
+            "Object": "021739:Dragonborn.esm"
+          }
+        ]
+      }
+    ]
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Apply Dragon Aspect Effect"
+  },
+  "MenuDisplayObject": "03D58F:Dragonborn.esm",
+  "Keywords": [
+    "01EA72:Skyrim.esm"
+  ],
+  "Flags": [
+    "Recover",
+    "NoArea",
+    "FXPersist",
+    "PowerAffectsDuration"
+  ],
+  "CastingLight": "03F1B5:Skyrim.esm",
+  "HitShader": "021733:Dragonborn.esm",
+  "SpellmakingCastingTime": 0.5,
+  "Archetype": {
+    "MutagenObjectType": "MagicEffectPeakValueModArchetype",
+    "ActorValue": "DamageResist"
+  },
+  "CastType": "FireAndForget",
+  "HitEffectArt": "03D58E:Dragonborn.esm",
+  "DualCastScale": 1.0,
+  "Sounds": [],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "FormKey": "026477:Dragonborn.esm",
+  "EditorID": "DLC2ApocryphaBookReward_C2_Prompt",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Dragonborn Flame: Elevate your Thu'um to that of a true dovah. Your Fire Breath Shout will now emit a stream of scorching wildfire at three words.\r\n\r\nYou may only accept one ability from this book at a time."
+  },
+  "INAM": "0x00000000",
+  "Flags": [
+    "MessageBox"
+  ],
+  "MenuButtons": [
+    {
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Accept"
+      }
+    },
+    {
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Cancel"
+      }
+    }
+  ]
+}

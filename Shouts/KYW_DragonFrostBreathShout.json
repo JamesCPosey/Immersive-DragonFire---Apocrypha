@@ -1,0 +1,30 @@
+{
+  "FormKey": "00C324:Immersive DragonFire - Apocrypha.esp",
+  "EditorID": "KYW_DragonFrostBreathShout",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Frost Breath"
+  },
+  "MenuDisplayObject": "10F0FC:Skyrim.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "A true Dovah's bone-chilling frost"
+  },
+  "WordsOfPower": [
+    {
+      "Word": "00F1F3:Immersive DragonFire - Apocrypha.esp",
+      "Spell": "063EB0:Immersive DragonFire - Apocrypha.esp",
+      "RecoveryTime": 25.0
+    },
+    {
+      "Word": "00F1F4:Immersive DragonFire - Apocrypha.esp",
+      "Spell": "0380EC:Immersive DragonFire - Apocrypha.esp",
+      "RecoveryTime": 40.0
+    },
+    {
+      "Word": "00F1F5:Immersive DragonFire - Apocrypha.esp",
+      "Spell": "000802:Immersive DragonFire - Apocrypha.esp",
+      "RecoveryTime": 50.0
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FormKey": "026479:Dragonborn.esm",
+  "EditorID": "DLC2ApocryphaBookReward_C3_Prompt",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Dragonborn Frost: Elevate your Thu'um to that of a true dovah. Your Frost Breath Shout will now unleash a current of icy devastation."
+  },
+  "INAM": "0x00000000",
+  "Flags": [
+    "MessageBox"
+  ],
+  "MenuButtons": [
+    {
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Accept"
+      }
+    },
+    {
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Cancel"
+      }
+    }
+  ]
+}

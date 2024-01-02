@@ -1,0 +1,28 @@
+{
+  "FormKey": "05E11E:Immersive DragonFire - Apocrypha.esp",
+  "EditorID": "KYW_DragonAspectHeadSpell",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Dragon Aspect"
+  },
+  "EquipmentType": "025BEE:Skyrim.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Flags": [
+    "NoDualCastModification"
+  ],
+  "Type": "Voice",
+  "ChargeTime": 0.5,
+  "CastType": "FireAndForget",
+  "Effects": [
+    {
+      "BaseEffect": "05E11D:Immersive DragonFire - Apocrypha.esp",
+      "Data": {
+        "Magnitude": 1.0,
+        "Duration": 2
+      }
+    }
+  ]
+}

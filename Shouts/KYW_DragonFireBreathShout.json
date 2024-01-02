@@ -1,0 +1,30 @@
+{
+  "FormKey": "00F1EE:Immersive DragonFire - Apocrypha.esp",
+  "EditorID": "KYW_DragonFireBreathShout",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Fire Breath"
+  },
+  "MenuDisplayObject": "10EA46:Skyrim.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "The true blazing breath of a Dovah."
+  },
+  "WordsOfPower": [
+    {
+      "Word": "00F1F0:Immersive DragonFire - Apocrypha.esp",
+      "Spell": "063EB4:Immersive DragonFire - Apocrypha.esp",
+      "RecoveryTime": 25.0
+    },
+    {
+      "Word": "00F1F1:Immersive DragonFire - Apocrypha.esp",
+      "Spell": "0380EA:Immersive DragonFire - Apocrypha.esp",
+      "RecoveryTime": 30.0
+    },
+    {
+      "Word": "00F1F2:Immersive DragonFire - Apocrypha.esp",
+      "Spell": "000803:Immersive DragonFire - Apocrypha.esp",
+      "RecoveryTime": 55.0
+    }
+  ]
+}

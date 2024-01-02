@@ -1,0 +1,53 @@
+{
+  "FormKey": "03DE81:Immersive DragonFire - Apocrypha.esp",
+  "EditorID": "KYW_VoiceDragonFireballEffect",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Fireball"
+  },
+  "MenuDisplayObject": "0435A5:Skyrim.esm",
+  "Keywords": [
+    "01CEAD:Skyrim.esm",
+    "046B99:Skyrim.esm"
+  ],
+  "Flags": [
+    "Hostile",
+    "Detrimental",
+    "FXPersist",
+    "PowerAffectsMagnitude",
+    "NoDeathDispel"
+  ],
+  "BaseCost": 2.0,
+  "MagicSkill": "Destruction",
+  "ResistValue": "ResistFire",
+  "CastingLight": "0140EC:Skyrim.esm",
+  "TaperWeight": 1.0,
+  "HitShader": "01B212:Skyrim.esm",
+  "SpellmakingArea": 15,
+  "Archetype": {
+    "MutagenObjectType": "MagicEffectArchetype",
+    "ActorValue": "Health"
+  },
+  "Projectile": "022383:Skyrim.esm",
+  "Explosion": "0E1530:Skyrim.esm",
+  "CastType": "FireAndForget",
+  "TargetType": "Aimed",
+  "CastingArt": "01B211:Skyrim.esm",
+  "ImpactData": "020DE1:Skyrim.esm",
+  "SkillUsageMultiplier": 1.4,
+  "DualCastScale": 3.0,
+  "Sounds": [
+    {
+      "Type": "Release",
+      "Sound": "0728DA:Skyrim.esm"
+    },
+    {
+      "Type": "ConcentrationCastLoop",
+      "Sound": "03E5E4:Skyrim.esm"
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Burns the target <mag> points per second. Targets on fire take extra damage."
+  }
+}

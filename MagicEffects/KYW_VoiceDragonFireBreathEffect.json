@@ -1,0 +1,51 @@
+{
+  "FormKey": "0380EE:Immersive DragonFire - Apocrypha.esp",
+  "EditorID": "KYW_VoiceDragonFireBreathEffect",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Fire Breath"
+  },
+  "MenuDisplayObject": "10EA46:Skyrim.esm",
+  "Keywords": [
+    "01CEAD:Skyrim.esm",
+    "046B99:Skyrim.esm"
+  ],
+  "Flags": [
+    "Hostile",
+    "Detrimental",
+    "FXPersist",
+    "GoryVisuals",
+    "NoRecast",
+    "PowerAffectsMagnitude",
+    "NoDeathDispel"
+  ],
+  "ResistValue": "ResistFire",
+  "TaperWeight": 0.3,
+  "HitShader": "01B212:Skyrim.esm",
+  "TaperCurve": 2.0,
+  "TaperDuration": 1.0,
+  "Archetype": {
+    "MutagenObjectType": "MagicEffectArchetype",
+    "ActorValue": "Health"
+  },
+  "Projectile": "0252C6:Skyrim.esm",
+  "CastType": "Concentration",
+  "TargetType": "Aimed",
+  "ImpactData": "020DE1:Skyrim.esm",
+  "SkillUsageMultiplier": 1.0,
+  "DualCastScale": 1.0,
+  "Sounds": [
+    {
+      "Type": "Release",
+      "Sound": "072915:Skyrim.esm"
+    },
+    {
+      "Type": "ConcentrationCastLoop",
+      "Sound": "0EA653:Skyrim.esm"
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  }
+}

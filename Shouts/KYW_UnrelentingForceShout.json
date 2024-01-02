@@ -1,0 +1,30 @@
+{
+  "FormKey": "0AA196:Immersive DragonFire - Apocrypha.esp",
+  "EditorID": "KYW_UnrelentingForceShout",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Unrelenting Force"
+  },
+  "MenuDisplayObject": "0A59AC:Skyrim.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Your Voice is raw kinetic force, powered by the true Dovah essence within"
+  },
+  "WordsOfPower": [
+    {
+      "Word": "0AA197:Immersive DragonFire - Apocrypha.esp",
+      "Spell": "013E09:Skyrim.esm",
+      "RecoveryTime": 15.0
+    },
+    {
+      "Word": "0AA198:Immersive DragonFire - Apocrypha.esp",
+      "Spell": "0AA194:Immersive DragonFire - Apocrypha.esp",
+      "RecoveryTime": 20.0
+    },
+    {
+      "Word": "0AA199:Immersive DragonFire - Apocrypha.esp",
+      "Spell": "0AA195:Immersive DragonFire - Apocrypha.esp",
+      "RecoveryTime": 45.0
+    }
+  ]
+}

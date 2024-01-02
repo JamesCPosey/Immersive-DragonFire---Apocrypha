@@ -1,0 +1,51 @@
+{
+  "FormKey": "0380EF:Immersive DragonFire - Apocrypha.esp",
+  "EditorID": "KYW_VoiceDragonFrostBreathEffect",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Frost Breath"
+  },
+  "MenuDisplayObject": "0435A5:Skyrim.esm",
+  "Keywords": [
+    "01CEAE:Skyrim.esm",
+    "046B99:Skyrim.esm"
+  ],
+  "Flags": [
+    "Hostile",
+    "Detrimental",
+    "FXPersist",
+    "GoryVisuals",
+    "HideInUI",
+    "NoRecast",
+    "PowerAffectsMagnitude",
+    "NoDeathDispel"
+  ],
+  "ResistValue": "ResistFrost",
+  "HitShader": "01F03A:Skyrim.esm",
+  "SecondActorValueWeight": 1.0,
+  "Archetype": {
+    "MutagenObjectType": "MagicEffectArchetype",
+    "ActorValue": "Health",
+    "Type": "DualValueModifier"
+  },
+  "Projectile": "016CD1:Skyrim.esm",
+  "CastType": "Concentration",
+  "TargetType": "Aimed",
+  "SecondActorValue": "Stamina",
+  "ImpactData": "0D7863:Skyrim.esm",
+  "DualCastScale": 1.0,
+  "Sounds": [
+    {
+      "Type": "Release",
+      "Sound": "07F8EB:Skyrim.esm"
+    },
+    {
+      "Type": "ConcentrationCastLoop",
+      "Sound": "0EA342:Skyrim.esm"
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  }
+}

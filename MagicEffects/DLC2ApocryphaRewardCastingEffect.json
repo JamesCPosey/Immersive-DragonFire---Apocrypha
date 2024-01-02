@@ -1,0 +1,52 @@
+{
+  "FormKey": "029A25:Dragonborn.esm",
+  "EditorID": "DLC2ApocryphaRewardCastingEffect",
+  "Version2": 6,
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "magicsoundplayintrooutro",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "IntroSoundFX",
+            "Object": "03BE30:Dragonborn.esm"
+          }
+        ]
+      },
+      {
+        "Name": "KYW_EffectScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "DQuest",
+            "Object": "017E50:Immersive DragonFire - Apocrypha.esp"
+          }
+        ]
+      }
+    ]
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Power of Apocrypha"
+  },
+  "Flags": [
+    "NoMagnitude",
+    "FXPersist",
+    "HideInUI"
+  ],
+  "MagicSkill": "Alteration",
+  "Archetype": {
+    "MutagenObjectType": "MagicEffectArchetype",
+    "Type": "Script"
+  },
+  "CastType": "FireAndForget",
+  "HitEffectArt": "029A24:Dragonborn.esm",
+  "DualCastScale": 1.0,
+  "CastingSoundLevel": "Normal",
+  "Sounds": [],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  }
+}

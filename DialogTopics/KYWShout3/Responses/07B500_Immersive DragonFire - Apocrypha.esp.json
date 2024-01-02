@@ -1,0 +1,51 @@
+{
+  "FormKey": "07B500:Immersive DragonFire - Apocrypha.esp",
+  "Flags": {},
+  "PreviousDialog": "Null",
+  "FavorLevel": "None",
+  "ResponseData": "050344:Skyrim.esm",
+  "Responses": [
+    {
+      "EmotionValue": 100,
+      "ResponseNumber": 1,
+      "Unknown2": "0x000000",
+      "Flags": [
+        "UseEmotionAnimation"
+      ],
+      "Unknown3": "0x000000",
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Yol..."
+      },
+      "ScriptNotes": "",
+      "Edits": ""
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetIsVoiceTypeConditionData",
+        "VoiceTypeOrList": "10D29D:Skyrim.esm"
+      },
+      "ComparisonValue": 1.0
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Flags": [
+        "OR"
+      ],
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetEquippedShoutConditionData",
+        "Shout": "00F1EE:Immersive DragonFire - Apocrypha.esp"
+      },
+      "ComparisonValue": 1.0
+    }
+  ],
+  "Prompt": {
+    "TargetLanguage": "English",
+    "Value": "Yol..."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "SpriggitSource": {
+    "PackageName": "Spriggit.Json.Skyrim",
+    "Version": "0.14.0"
+  },
+  "ModKey": "Immersive DragonFire - Apocrypha.esp",
+  "GameRelease": "SkyrimSE",
+  "ModHeader": {
+    "Stats": {
+      "NumRecords": 80,
+      "NextFormID": 696730
+    },
+    "Author": "KyuubiWindscar",
+    "MasterReferences": [
+      {
+        "Master": "Skyrim.esm",
+        "FileSize": 0
+      },
+      {
+        "Master": "Update.esm",
+        "FileSize": 0
+      },
+      {
+        "Master": "Dragonborn.esm",
+        "FileSize": 0
+      }
+    ],
+    "INTV": 1
+  }
+}

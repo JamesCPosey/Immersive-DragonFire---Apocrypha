@@ -1,0 +1,22 @@
+{
+  "MutagenObjectType": "PlacedNpc",
+  "FormKey": "0186AD:Dragonborn.esm",
+  "MajorRecordFlagsRaw": 3072,
+  "EditorID": "DLC2MiraakMQ01Ref",
+  "Version2": 8,
+  "SkyrimMajorRecordFlags": [
+    "0x400",
+    "InitiallyDisabled"
+  ],
+  "Base": "017936:Dragonborn.esm",
+  "PersistentLocation": "0142B6:Dragonborn.esm",
+  "LocationReference": "0142B6:Dragonborn.esm",
+  "Placement": {
+    "Position": "56342.277, 62371.137, 9430.913",
+    "Rotation": "0, 0, 0.340007"
+  },
+  "MajorFlags": [
+    "Persistent",
+    "InitiallyDisabled"
+  ]
+}
