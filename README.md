@@ -13,9 +13,9 @@ NO DRAUGR: One side effect of previous implementations of DragonFire is that it 
 
 ## Installation
 
- **Requirements
+ **Requirements**
  
-   -None other than the original game + Dragonborn. Future versions may require SKSE 
+   - None other than the original game + Dragonborn. Future versions may require SKSE 
 
  **Manual Installation**
  
